@@ -36,6 +36,20 @@ This project was developed as a hands-on exploration of embedded systems and con
 - Wire library
 - ESP32Servo library
 
+## 📸 Project Gallery
+
+### Self-Balancing Platform
+
+![ESP32 Two-Axis Self-Balancing Platform](images/platform.jpg)
+
+### 🎥 Demonstration and Explanation
+
+The video demonstrates the platform's self-balancing behaviour and explains the hardware and control system.
+
+**Video file:** [`videos/balancing_demo.mp4`](videos/balancing_demo.mp4)
+
+
+
 ## How It Works
 
 ### 1. Sensor Acquisition
